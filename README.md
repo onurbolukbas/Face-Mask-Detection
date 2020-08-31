@@ -1,7 +1,5 @@
 Face Mask😷 Detection using TensorFlow
 
-![Without Mask](/1.jpeg)
-
 What you need to do for run my project;
 
 •	First you need to download TensorFlow Object Detection API https://github.com/tensorflow/models/tree/r1.13.0 
@@ -19,3 +17,7 @@ What you need to do for run my project;
 •	https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md
 
 •	If you want to use my labelled images(xml files) your directory must be like C:\tensorflow1\models\research\object_detection.
+
+![Without Mask](/1.jpeg)
+![With Mask](/2.jpeg)
+![Without Mask](/3.jpeg)

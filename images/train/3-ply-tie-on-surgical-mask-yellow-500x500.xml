@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_with_mask</folder>
+	<filename>3-ply-tie-on-surgical-mask-yellow-500x500.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\3-ply-tie-on-surgical-mask-yellow-500x500.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>88</ymin>
+			<xmax>432</xmax>
+			<ymax>494</ymax>
+		</bndbox>
+	</object>
+</annotation>

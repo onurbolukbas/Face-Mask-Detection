@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>45e7f325306465-56343bff24656.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\45e7f325306465-56343bff24656.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>666</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>143</ymin>
+			<xmax>571</xmax>
+			<ymax>652</ymax>
+		</bndbox>
+	</object>
+</annotation>

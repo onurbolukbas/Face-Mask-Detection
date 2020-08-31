@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>pm.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\pm.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>770</xmin>
+			<ymin>293</ymin>
+			<xmax>2149</xmax>
+			<ymax>1969</ymax>
+		</bndbox>
+	</object>
+</annotation>

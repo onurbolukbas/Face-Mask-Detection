@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>cov-aish.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\cov-aish.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>79</ymin>
+			<xmax>455</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>augmented_image_99 (2).jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\augmented_image_99 (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>19</ymin>
+			<xmax>183</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+</annotation>

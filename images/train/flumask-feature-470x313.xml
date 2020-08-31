@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_with_mask</folder>
+	<filename>flumask-feature-470x313.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\flumask-feature-470x313.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>470</width>
+		<height>313</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>48</ymin>
+			<xmax>361</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

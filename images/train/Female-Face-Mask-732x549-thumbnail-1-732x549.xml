@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_with_mask</folder>
+	<filename>Female-Face-Mask-732x549-thumbnail-1-732x549.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\Female-Face-Mask-732x549-thumbnail-1-732x549.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>732</width>
+		<height>549</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>2</ymin>
+			<xmax>537</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>

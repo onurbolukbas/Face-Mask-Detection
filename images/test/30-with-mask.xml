@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>30-with-mask.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\30-with-mask.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>148</width>
+		<height>235</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>71</ymin>
+			<xmax>125</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_with_mask</folder>
+	<filename>surgical-mask-49701-blue.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\surgical-mask-49701-blue.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>464</xmin>
+			<ymin>255</ymin>
+			<xmax>1203</xmax>
+			<ymax>1180</ymax>
+		</bndbox>
+	</object>
+</annotation>

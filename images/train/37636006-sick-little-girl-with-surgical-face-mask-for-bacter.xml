@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_with_mask</folder>
+	<filename>37636006-sick-little-girl-with-surgical-face-mask-for-bacter.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\37636006-sick-little-girl-with-surgical-face-mask-for-bacter.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>861</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>371</xmin>
+			<ymin>90</ymin>
+			<xmax>909</xmax>
+			<ymax>646</ymax>
+		</bndbox>
+	</object>
+</annotation>

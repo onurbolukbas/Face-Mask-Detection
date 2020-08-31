@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>331.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\331.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>327</width>
+		<height>433</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>95</ymin>
+			<xmax>260</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

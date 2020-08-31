@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_with_mask</folder>
+	<filename>Anti-Flu-Disposable-Face-Mask-Bfe-99-.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\Anti-Flu-Disposable-Face-Mask-Bfe-99-.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>92</ymin>
+			<xmax>444</xmax>
+			<ymax>411</ymax>
+		</bndbox>
+	</object>
+</annotation>

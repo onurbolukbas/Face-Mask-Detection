@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>short-hairstyles-for-indian-faces-406016-50-indian-hairstyle.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\short-hairstyles-for-indian-faces-406016-50-indian-hairstyle.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>115</ymin>
+			<xmax>434</xmax>
+			<ymax>505</ymax>
+		</bndbox>
+	</object>
+</annotation>

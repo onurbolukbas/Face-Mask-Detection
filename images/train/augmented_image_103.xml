@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_with_mask</folder>
+	<filename>augmented_image_103.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\augmented_image_103.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>327</width>
+		<height>475</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>79</ymin>
+			<xmax>327</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>top-50-best-faces.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\top-50-best-faces.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>36</ymin>
+			<xmax>535</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_with_mask</folder>
+	<filename>HTB1hSsNjsuYBuNkSmRyq6AA3pXaR-jpg-350x350.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\HTB1hSsNjsuYBuNkSmRyq6AA3pXaR-jpg-350x350.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>41</ymin>
+			<xmax>238</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -18,6 +18,7 @@ What you need to do for run my project;
 
 •	If you want to use my labelled images(xml files) your directory must be like C:\tensorflow1\models\research\object_detection.
 
-![Without Mask](/1.jpeg)
+
 ![With Mask](/2.jpeg)
 ![Without Mask](/3.jpeg)
+![Without Mask](/1.jpeg)

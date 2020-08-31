@@ -1,7 +1,6 @@
 Face Mask😷 Detection using TensorFlow
 
-
-
+![Without Mask](/1.jpeg)
 
 What you need to do for run my project;
 
